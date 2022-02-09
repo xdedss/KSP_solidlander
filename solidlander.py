@@ -1,4 +1,7 @@
 
+# 自动定点着陆
+# 必须使用solid hover.craft
+
 import krpc
 import numpy as np
 import time, math, random, sys
